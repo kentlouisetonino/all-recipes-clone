@@ -1,0 +1,13 @@
+.brand {
+  color: #d54215;
+  font-weight: bolder;
+  word-spacing: 0.1px;
+}
+
+.brand:hover {
+  color: #f16338;
+}
+
+.jumbotronParagraph {
+  color: #f8d7cc;
+}
