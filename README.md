@@ -1,6 +1,6 @@
 ## Description
 
-> A computer program that will allow you to check different recipes. You can also post your own recipe and share it to other users. The app will allow you to like the recipes you have interest with.
+> A full-stack application that will allow you to check different recipes. You can also post your own recipe and share it to other users. The app will allow you to like the recipes you have interest with.
 
 <br />
 
